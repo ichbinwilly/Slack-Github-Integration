@@ -1,14 +1,16 @@
-# Add Github to your Slack
+# A Tutorial to add GitHub to your Slack 
+
+![slack](https://slack.github.com/static/img/githubplusslack.svg)
 
 ## No BS Just Do it
 
-Slack is a powerful management and communication platform for a team. It also provides a lot of integration underneath the incredibly tool. Below I am going to show how to add the github to Slack.
+Slack is a powerful management and communication platform for a team. It also provides a lot of integration underneath the incredibly tool. Below I am going to show how to add the GitHub to Slack.
 
 You can go through the instrunction 
-[Github for slack](https://get.slack.help/hc/en-us/articles/232289568-GitHub-for-Slack) 
-or click[Slack + GitHub](https://slack.github.com/) to add your github to slack
+[GitHub for slack](https://get.slack.help/hc/en-us/articles/232289568-GitHub-for-Slack) 
+or click [Slack + GitHub](https://slack.github.com/) to add your GitHub to slack
 
-## Install
+## Step by Step
 	
 	
 1. Click **Apps** in Slack 
@@ -31,7 +33,7 @@ or click[Slack + GitHub](https://slack.github.com/) to add your github to slack
 
 ![05](https://github.com/ichbinwilly/Slack-Github-Integration/blob/master/05.PNG)
 
-6. Successfully installed github in Slack
+6. Installed github successfully in Slack
 
 ![06](https://github.com/ichbinwilly/Slack-Github-Integration/blob/master/06.PNG)
 
@@ -49,7 +51,7 @@ For Example:
 
 ![07](https://github.com/ichbinwilly/Slack-Github-Integration/blob/master/07.PNG)
 
-8. Default to install Slack to all repositories in Github. You are allowed to choose the repositories you want it to be slacked. So just pick one and click **Install**
+8. Default to install Slack to all repositories in GitHub. You are allowed to choose the repositories you want it to be slacked. So just pick one and click **Install**
 
 ![08](https://github.com/ichbinwilly/Slack-Github-Integration/blob/master/08.PNG)
 
@@ -57,7 +59,7 @@ For Example:
 
 ![09](https://github.com/ichbinwilly/Slack-Github-Integration/blob/master/09.PNG)
 
-10. The prompt message popups immediately when the repository updated
+10. The prompt message popups immediately once the repository updated
 
 ![10](https://github.com/ichbinwilly/Slack-Github-Integration/blob/master/10.PNG)
 
